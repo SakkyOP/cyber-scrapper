@@ -1,0 +1,5 @@
+scrapy
+openai
+psycopg2
+sentence_transformers
+scipy
